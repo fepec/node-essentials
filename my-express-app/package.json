@@ -1,5 +1,5 @@
 {
-  "name": "7-exercise-dependency-management",
+  "name": "my-express-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "node-fetch": "^3.3.2"
+    "express": "^4.18.2"
   }
 }
